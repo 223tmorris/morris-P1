@@ -1320,10 +1320,10 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
   line-height: 1.6; }
   .site-footer .inner {
     padding-top: 0px;
-    padding-bottom: 70px;
+    padding-bottom: 0px;
     background: #f8f9fa; }
     .site-footer .inner.first {
-      padding-top: 80px; }
+      padding-top: 50px; }
   @media (max-width: 991.98px) {
     .site-footer {
       padding-top: 30px; } }
